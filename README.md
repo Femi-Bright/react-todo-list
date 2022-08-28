@@ -40,9 +40,10 @@ Users would be able to:
 
 ### Screen record
 
-<video width="320" height="240" controls>
-  <source src="./screen-record.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/109084070/187085410-7119157b-0a30-485e-ac9b-72b25867adb9.mp4
+
+
 
 
 ### Links
