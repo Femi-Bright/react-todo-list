@@ -40,12 +40,15 @@ Users would be able to:
 
 ### Screen record
 
-![](./screen-record.mp4)
+<video width="320" height="240" controls>
+  <source src="./screen-record.mp4" type="video/mp4">
+</video>
 
 
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github Repository: [https://fb-react-todo-list.netlify.app/](https://fb-react-todo-list.netlify.app/)
 
 ## My process
 
