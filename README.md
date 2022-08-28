@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/109084070/187085410-7119157b-0a30-485e
 ### Links
 
 - Live Site URL: [https://fb-react-todo-list.netlify.app/](https://fb-react-todo-list.netlify.app/)
-- Github Repository: [https://fb-react-todo-list.netlify.app/](https://fb-react-todo-list.netlify.app/)
+- Github Repository URL: [https://fb-react-todo-list.netlify.app/](https://fb-react-todo-list.netlify.app/)
 
 ## My process
 
