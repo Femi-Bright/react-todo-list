@@ -55,8 +55,6 @@ https://user-images.githubusercontent.com/109084070/187085410-7119157b-0a30-485e
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library

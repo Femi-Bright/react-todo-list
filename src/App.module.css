@@ -33,12 +33,26 @@
 }
 
 .attribution {
-  color: #FFFFFF;
-  top: 95%;
+  color: #FC8D5C;
+  bottom: 15px;
   position: fixed;
   left: 50%;
+  text-align: center;
   transform: translateX(-50%);
+  width: 100%;
   z-index: 2;
+  animation: slideout 900ms ease-out 4s normal both;
+}
+
+@media screen and (min-width: 768px) {
+  .attribution {
+    color: #FFFFFF;
+  }
+}
+
+@keyframes slideout {
+  from {bottom: 15px;}
+  to {bottom: -70px}
 }
 
 .attribution_link {
