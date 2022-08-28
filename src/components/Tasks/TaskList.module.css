@@ -1,0 +1,16 @@
+.tasks {
+  margin-top: 10px;
+}
+
+.no-task__img {
+  display: block;
+  height: auto;
+  max-width: 300px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.no-task__img-caption {
+  margin-top: 20px;
+  text-align: center;
+}
